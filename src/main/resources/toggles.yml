@@ -1,0 +1,48 @@
+commands:
+  discord: true
+  teamspeak: true
+  twitter: true
+  telegram: true
+
+
+normal:
+  chat:
+    muted: false
+    normal: true
+  double-jump: true
+  join-message: true
+  join-sound: true
+  join-speed: true
+  butt:
+    enabled: true
+    ride: false
+  server-selector:
+    enabled: true
+  hide-players:
+    enabled: true
+
+addons:
+  protection: true
+
+world:
+  no-mobs-spawn:
+    enabled: true
+  no-damage:
+    enabled: true
+  no-drop-items:
+    enabled: true
+  no-place-blocks:
+    enabled: true
+  no-break-blocks:
+    enabled: true
+  void-teleport:
+    enabled: true
+  border:
+    enabled: true
+  minehq-hideplayers:
+    enabled: false
+  all-hide-players: false
+
+features:
+  scoreboard: true
+  tablist: true

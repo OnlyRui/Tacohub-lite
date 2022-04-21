@@ -1,0 +1,31 @@
+###########################
+# PLACEHOLDERS-SCOREBOARD #
+#                         #
+# %players%               #
+# %rank%                  #
+# %rank-color%            #
+# %server%                #
+# %position%              #
+# %size%                  #
+###########################
+
+###########################
+# PLACEHOLDERS-TABLIST    #
+#                         #
+# %player%                #
+# %players%               #
+# %rank%                  #
+# %rank-color%            #
+# %queue-server%          #
+# %queue-position%        #
+# %queue-size%            #
+###########################
+
+###########################
+# PLACEHOLDERS FORMATCHAT #
+#                         #
+# %player%                #
+# %message%               #
+# %suffix%                #
+# %prefix%                #
+###########################

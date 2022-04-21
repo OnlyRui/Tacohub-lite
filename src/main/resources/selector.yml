@@ -1,0 +1,35 @@
+server-selector:
+  title: "&7Select a server to join..."
+  rows: 3
+  refil-glass:
+    enabled: true
+    data: 15
+  items:
+    HCF:
+      name: "&a&lHCF"
+      item: "DIAMOND_SWORD"
+      data: 0
+      slot: 11
+      lore:
+        - "&ePlayers: &f%bungee_Squads%/500"
+        - " "
+        - "&7* &615 Man Factions!"
+        - "&7* &6No Allies!"
+        - "&7* &6KOTHs, Conquest, & Citadel!"
+        - " "
+        - "&7» &eClick to join the queue! &7«"
+      server: "HCF"
+    Practice:
+      name: "&a&lPractice"
+      item: "BOW"
+      data: 0
+      slot: 15
+      lore:
+        - "&ePlayers: &f%bungee_Practice%/500"
+        - " "
+        - "&7* &61v1s, 2v2s, 3v3s!"
+        - "&7* &6Leaderboards, Parties, & Queues!"
+        - "&7* &6Tournaments, Redrovers, & More!"
+        - " "
+        - "&7» &eClick to join the queue! &7«"
+      server: "Practice"
